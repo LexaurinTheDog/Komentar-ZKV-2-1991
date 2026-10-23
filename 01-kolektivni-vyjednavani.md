@@ -20,6 +20,11 @@ Systematika: (i) úvodní ustanovení (§ 1); (ii) rozšíření závaznosti kol
 
 Vztah k zákoníku práce: ZKV je ve vztahu k § 22 a násl. ZP zvláštní procesní úpravou; obecná subsidiarita zákoníku práce plyne z § 32 odst. 1 ZKV.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2104/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CFB2B841B49E450C1257A4E00692642?openDocument) — 14. 11. 2002, kat. A
+  > „Právo na stávku lze vykonat nejen ve sporu o uzavření kolektivní smlouvy, ale i za účelem obrany jiných hospodářských a sociálních zájmů zaměstnanců u jejich zaměstnavatele. Nesouvisí-li stávka se sporem o uzavření kolektivní smlouvy, nemůže být posuzována ani analogicky podle zákona č. 2/1991 Sb. Účast zaměstnance na stávce, jejímž účelem není obrana hospodářských a sociálních zájmů, ale prosazování personálních zájmů pracujících, je porušením pracovní kázně"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** U zaměstnavatele působí rada zaměstnanců, odborová organizace nikoli. Rada předloží zaměstnavateli „návrh kolektivní smlouvy" a po odmítnutí žádá MPSV o určení zprostředkovatele.
@@ -681,6 +686,11 @@ Procesní detaily a částky obsahují vyhlášky č. 16/1991 Sb. a č. 114/1991
 
 **Účastník stávky (odst. 4).** Zaměstnanec, který se stávkou **souhlasil** (po celou dobu trvání), nebo se k ní **připojil** (ode dne připojení). Status účastníka je rozhodný pro mzdové a odpovědnostní důsledky (§ 22, § 23).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2104/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CFB2B841B49E450C1257A4E00692642?openDocument) — 14. 11. 2002, kat. A
+  > „Právo na stávku lze vykonat nejen ve sporu o uzavření kolektivní smlouvy, ale i za účelem obrany jiných hospodářských a sociálních zájmů zaměstnanců u jejich zaměstnavatele. Nesouvisí-li stávka se sporem o uzavření kolektivní smlouvy, nemůže být posuzována ani analogicky podle zákona č. 2/1991 Sb. Účast zaměstnance na stávce, jejímž účelem není obrana hospodářských a sociálních zájmů, ale prosazování personálních zájmů pracujících, je porušením pracovní kázně"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Odbory vyhlásí stávku na protest proti plánovanému propouštění, aniž by probíhalo vyjednávání o kolektivní smlouvě. Zaměstnanci přeruší práci na 4 hodiny.
@@ -1195,6 +1205,11 @@ Zaměstnavatel nesmí stávkující nahrazovat nově přijatými osobami.
 **Výklad:**
 
 § 26 upravuje **ukončení stávky**: stávka je ukončena **rozhodnutím odborové organizace**, která ji vyhlásila nebo rozhodla o jejím zahájení. Pro ukončení se nevyžaduje hlasování zaměstnanců. Odbory musí ukončení **bez zbytečného odkladu písemně oznámit** zaměstnavateli. Oznámení má deklaratorní povahu (stávka končí rozhodnutím), je však rozhodné pro organizaci obnovení provozu a pro to, od kdy lze neúčast na práci posuzovat již jako absenci, nikoli účast na stávce. Ukončení může být i důsledkem uzavření kolektivní smlouvy — pokračování stávky po uzavření smlouvy je nezákonné (§ 20 písm. b)). Jednotlivý zaměstnanec může svou účast skončit kdykoli (§ 18 odst. 1).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2104/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CFB2B841B49E450C1257A4E00692642?openDocument) — 14. 11. 2002, kat. A
+  > „Právo na stávku lze vykonat nejen ve sporu o uzavření kolektivní smlouvy, ale i za účelem obrany jiných hospodářských a sociálních zájmů zaměstnanců u jejich zaměstnavatele. Nesouvisí-li stávka se sporem o uzavření kolektivní smlouvy, nemůže být posuzována ani analogicky podle zákona č. 2/1991 Sb. Účast zaměstnance na stávce, jejímž účelem není obrana hospodářských a sociálních zájmů, ale prosazování personálních zájmů pracujících, je porušením pracovní kázně"
 
 #### F. Kazuistika
 
